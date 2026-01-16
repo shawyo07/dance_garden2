@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+permalink: /
 ---
 
 # 💃 欢迎来到跳舞胶囊
