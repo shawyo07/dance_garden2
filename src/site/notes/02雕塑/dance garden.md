@@ -8,7 +8,15 @@
 ### 2026-01-17 （最新更新 ✨）
 - **风格**: #Jazz 
 - **歌曲**： #FallinOut
-<div style="position: relative; width: 100%; padding-bottom: 177%; height: 0; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 15px 0;"> <iframe src="[https://www.douyin.com/player/video/7460924976451669285](https://www.douyin.com/share/video/7460924976451669285)" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen> </iframe> </div>
+<div style="position: relative; width: 100%; padding-bottom: 177%; height: 0; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 15px 0;"> 
+  <iframe 
+    src="https://www.douyin.com/player/video/7460924976451669285" 
+    Style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    Allowfullscreen> 
+  </iframe> 
+</div>
 
 ### 2026-01-15 练习记录
+- **风格**: #Jazz 
+- **歌曲**： #change
 - **视频链接**: [点击查看抖音练舞打卡](https://v.douyin.com/2qHOwcwyYVU/)
