@@ -12,9 +12,9 @@
   <a href="https://v.douyin.com/69roMY8LMVw/" target="_blank" style="text-decoration: none; display: block;">
     <div style="position: relative; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';" >
       
-      <img src="https://raw.githubusercontent.com/shawyo07/yooshaw-capsule2/main/src/509a99db0d3c6396b9615b01872aa317.jpg" style="width: 100%; display: block; filter: brightness(0.9);">
+      <img src="https://raw.githubusercontent.com/shawyo07/dance_garden2/main/src/509a99db0d3c6396b9615b01872aa317.jpg" style="width: 100%; display: block; filter: brightness(0.95);">
 
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.1);">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.15);">
          <div style="width: 0; height: 0; border-top: 20px solid transparent; border-bottom: 20px solid transparent; border-left: 30px solid rgba(255,255,255,0.9); filter: drop-shadow(0 0 15px rgba(0,0,0,0.5));"></div>
       </div>
       
